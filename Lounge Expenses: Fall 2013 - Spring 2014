@@ -1552,5 +1552,177 @@ NonSPA Total (no reimbursement) 41.13      </span><br>
   </tr>
 </tbody>
 </table>
+<table class="loungeinfo">
+  <tbody><tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th colspan="3" style="border-bottom-style:solid;border-color:black">Allocation</th>
+  </tr>
+  <tr>
+    <th>Lounge</th>
+    <th>Members</th>
+    <th>Avg.&nbsp;Part.</th>
+    <th>Events</th>
+    <th>Total</th>
+    <th>Used</th>
+    <th>Remaining</th>
+  </tr>
+  <tr class="evenrow">
+    <td>10th Floor Poles</td>
+    <td class="number">9</td>
+    <td class="number">5.00</td>
+    <td class="number">4</td>
+    <td class="money">600.00</td>
+    <td class="money">542.50</td>
+    <td class="money">57.50</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Arnold Palmer's Penthouse</td>
+    <td class="number">12</td>
+    <td class="number">6.21</td>
+    <td class="number">14</td>
+    <td class="money">1135.00</td>
+    <td class="money">980.14</td>
+    <td class="money">154.86</td>
+  </tr>
+  <tr class="evenrow">
+    <td>BBBBBBBBBB</td>
+    <td class="number">5</td>
+    <td class="number">8.00</td>
+    <td class="number">3</td>
+    <td class="money">630.00</td>
+    <td class="money">227.52</td>
+    <td class="money">402.48</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Bitches, Whores, and Doors</td>
+    <td class="number">9</td>
+    <td class="number">10.33</td>
+    <td class="number">3</td>
+    <td class="money">840.00</td>
+    <td class="money">840.00</td>
+    <td class="money">0.00</td>
+  </tr>
+  <tr class="evenrow">
+    <td>Ceci n'est pas une Lounge</td>
+    <td class="number">9</td>
+    <td class="number">6.67</td>
+    <td class="number">3</td>
+    <td class="money">630.00</td>
+    <td class="money">608.57</td>
+    <td class="money">21.43</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Cylon Number Six on Six</td>
+    <td class="number">1</td>
+    <td class="number">7.25</td>
+    <td class="number">4</td>
+    <td class="money">710.00</td>
+    <td class="money">424.65</td>
+    <td class="money">285.35</td>
+  </tr>
+  <tr class="evenrow">
+    <td>Das Lounge</td>
+    <td class="number">7</td>
+    <td class="number">7.40</td>
+    <td class="number">5</td>
+    <td class="money">600.00</td>
+    <td class="money">386.36</td>
+    <td class="money">213.64</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Froyo Lounge</td>
+    <td class="number">4</td>
+    <td class="number"></td>
+    <td class="number">0</td>
+    <td class="money">825.00</td>
+    <td class="money">0.00</td>
+    <td class="money">825.00</td>
+  </tr>
+  <tr class="evenrow">
+    <td>La Iglesia del Perreo</td>
+    <td class="number">10</td>
+    <td class="number">6.00</td>
+    <td class="number">22</td>
+    <td class="money">990.00</td>
+    <td class="money">501.63</td>
+    <td class="money">488.37</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Nyan Nyan</td>
+    <td class="number">22</td>
+    <td class="number">14.58</td>
+    <td class="number">12</td>
+    <td class="money">1740.00</td>
+    <td class="money">1719.34</td>
+    <td class="money">20.66</td>
+  </tr>
+  <tr class="evenrow">
+    <td>Sexley</td>
+    <td class="number">3</td>
+    <td class="number">1.62</td>
+    <td class="number">8</td>
+    <td class="money">510.00</td>
+    <td class="money">374.99</td>
+    <td class="money">135.01</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Simmons Phive Alpha</td>
+    <td class="number">25</td>
+    <td class="number">16.75</td>
+    <td class="number">4</td>
+    <td class="money">1915.00</td>
+    <td class="money">1802.75</td>
+    <td class="money">112.25</td>
+  </tr>
+  <tr class="evenrow">
+    <td>SimplyNoms Lounge</td>
+    <td class="number">9</td>
+    <td class="number">8.00</td>
+    <td class="number">3</td>
+    <td class="money">900.00</td>
+    <td class="money">553.02</td>
+    <td class="money">346.98</td>
+  </tr>
+  <tr class="oddrow">
+    <td>Simply Smash</td>
+    <td class="number">9</td>
+    <td class="number">0.00</td>
+    <td class="number">2</td>
+    <td class="money">300.00</td>
+    <td class="money">300.00</td>
+    <td class="money">0.00</td>
+  </tr>
+  <tr class="evenrow">
+    <td>The Bluths</td>
+    <td class="number">8</td>
+    <td class="number">1.82</td>
+    <td class="number">11</td>
+    <td class="money">390.00</td>
+    <td class="money">343.36</td>
+    <td class="money">46.64</td>
+  </tr>
+  <tr class="oddrow">
+    <td>The Glazed Donut</td>
+    <td class="number">4</td>
+    <td class="number">8.00</td>
+    <td class="number">3</td>
+    <td class="money">300.00</td>
+    <td class="money">256.95</td>
+    <td class="money">43.05</td>
+  </tr>
+  <tr class="evenrow">
+    <td>the party lounge</td>
+    <td class="number">21</td>
+    <td class="number">7.50</td>
+    <td class="number">10</td>
+    <td class="money">1345.00</td>
+    <td class="money">1341.65</td>
+    <td class="money">3.35</td>
+  </tr>
+</tbody>
+</table>
 </body>
 </html>
