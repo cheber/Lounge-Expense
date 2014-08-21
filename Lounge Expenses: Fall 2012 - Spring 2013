@@ -21,9 +21,9 @@
   })();
 
   </script> 
-  </head>
-<body>
+</head>
 
+<body>
 <table class="loungeinfo">
   <tr>
 <th width="12%"><a href="?sortby=0">Lounge</a></th>
@@ -1383,8 +1383,6 @@ If the leds arrive in time, we will also have a build party some time during the
     </td>
   </tr>
 </table>
-* - In addition to approving the event, this member committed to attending.
-
 </body>
 </html>
 
